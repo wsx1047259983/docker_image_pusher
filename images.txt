@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 superng6/qbittorrent
 homeassistant/home-assistant
+dreamacro/clash
